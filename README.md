@@ -1,16 +1,15 @@
-# Hi folks! I'm Mohamed Bakuly.
+# 👋 Hi, folks! I'm Mohamed Bakuly.
 
-<p>I am a dedicated frontend developer with expertise in CSS and UX/UI Design. I actively share valuable web development insights on Twitter. I am currently honing skills in ReactJS while contributing to open Source, Currently Building PhotoHive a platform to connect creatives.</p>
+<p>I am a dedicated frontend developer passionate about CSS and UX/UI Design. I love sharing Twitter web development tips and am diving deeper into ReactJS. I'm also building *PhotoHive*, a platform connecting creatives.</p>
 
-<img src="https://github.com/MOHAMEDBAKULY/MOHAMEDBAKULY/assets/119895383/e8539885-f8e1-420d-807a-a077a041472e" align="right" alt="GitHub image" style="height:200px; width:300px"/>
+### 💡 More Facts About Me!
 
-### :heart: More facts about Me!
+- 💜 I love working with CSS. Check out my [CssBattles](https://cssbattle.dev/player/mohamedbakuly).
+- 🔥 Always striving to work hard and learn new tools.
+- 🤝 Looking to connect and share knowledge.
+- 📚 Avid reader, foodie, and martial arts enthusiast.
+- 🖍️ Passionate about design—see my [work on Behance](https://www.behance.net/bakulybakulain).
 
-- 💜 I love working with CSS. Checkout my [CssBattles](https://cssbattle.dev/player/mohamedbakuly)
-- 🔥 Always striving to work hard & learn new tools.
-- 👯 Looking to connect with people, share ideas and knowledge with them.
-- 📕 An avid reader, Foodie and love Martial Arts.
-- 🖍️I love to Desiging too. See my [Designs on Behance](https://www.behance.net/bakulybakulain)
 
 <br/>
 <br/>
@@ -22,8 +21,6 @@
 <br/>
 <br/>
 
-<img src="https://github.com/MOHAMEDBAKULY/MOHAMEDBAKULY/assets/119895383/b5bb81ac-e561-4401-9be3-241508942f0d" align="left" alt="my single div baby yoda CSS art" style=" height:450px; width:250px"/>
-
 ## :computer: My Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
@@ -34,7 +31,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-3490dc?style=for-the-badge&logo=TailwindCSS&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white)
 
-## :My Tools: for development
+##: My Tools: for development
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -53,9 +50,6 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Connect with on Twitter"/>
 </a>
 
-<a href="https://www.coursera.org/user/c8c0dc354187588ccbc6c4498b5481e1">
-<img src="https://github.com/MOHAMEDBAKULY/MOHAMEDBAKULY/assets/119895383/3a93c05d-719b-44ea-bdaf-e95f8957532b"  height="50px" width="50px"alt="My Certs on Coursera")
-</a>
 
 <a href="https://cssbattle.dev/player/mohamedbakuly">
   <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white" alt="Connect with on CodePen"/>
@@ -75,7 +69,7 @@
 
 
 <div align="center">
-<img src="https://github.com/MOHAMEDBAKULY/MOHAMEDBAKULY/assets/119895383/a6403827-9395-4e46-af88-c3474713fbe8" alt="my no-div gary CSS art carrying a quote" style=" height:150px;">
+<img src="https://github.com/MOHAMEDBAKULY/MOHAMEDBAKULY/assets/119895383/a6403827-9395-4e46-af88-c3474713fbe8" alt="my no-div CSS art" style="height:150px;"/>
 </div>
 
 <hr/>
