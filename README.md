@@ -62,7 +62,7 @@
 ## :star: My GitHub Stats
 
 <br/> <br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MOHAMEDBAKULY)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-nu-six-72.vercel.app?user=mohamedbakuly&theme=merko)](https://git.io/streak-stats)
 
 <br/>
 <br/>
