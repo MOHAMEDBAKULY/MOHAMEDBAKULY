@@ -1,6 +1,6 @@
 # 👋 Hi, folks! I'm Mohamed Bakuly.
 
-<p>I am a dedicated frontend developer passionate about CSS and UX/UI Design. I love sharing Twitter web development tips and am diving deeper into ReactJS. I'm also building *PhotoHive*, a platform connecting creatives.</p>
+<p>I am a Design Engineer and a Student of Psychology. I love sharing web development tips and am diving deeper into ReactJS. I'm also building *FotoAlly*, a platform connecting creatives.</p>
 
 ### 💡 More Facts About Me!
 
