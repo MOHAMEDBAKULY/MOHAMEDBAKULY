@@ -1,6 +1,6 @@
-# 👋 Hi, folks! I'm Mohamed Bakuly.
+# 👋 Hi, I'm Mohamed Bakuly.
 
-<p>I am a Design Engineer and a Student of Psychology. I love sharing web development tips and am diving deeper into ReactJS. I'm also building FotoAlly, a platform connecting creatives.</p>
+<p>A Design Engineer and Student of Psychology. I love sharing web development tips and diving deeper into ReactJS.Also building FotoAlly, a platform connecting creatives to clients and organizations.</p>
 
 ### 💡 More Facts About Me!
 
