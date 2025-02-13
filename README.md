@@ -1,15 +1,16 @@
 # 👋 Hi, I'm Mohamed Bakuly.
 
-**Design Engineer | Psychology Student**
-<p>I love sharing web development tips and diving deeper into ReactJS.Also building FotoAlly, a platform connecting creatives to clients and organizations.</p>
+**Tech-Psychology Student**
+<p>I love sharing web development tips and diving deeper into ReactJS & NextJS.Building FotoAlly, a platform connecting creatives to clients and organizations.</p>
 
 ### 💡 About Me!
 
-- 💜 I love working with **CSS**. Check out my [CssBattles](https://cssbattle.dev/player/mohamedbakuly).
-- 🔥 Always striving to work hard and learn new tools.
-- 🤝 Looking to connect and share knowledge.
+- 💜 Passionate about **CSS-Check** out my [CssBattles](https://cssbattle.dev/player/mohamedbakuly).
+- 🔥 Constantly learning and leveling up my skills.
+- 🤝 Open to connecting and sharing knowledge.
+- 🔬 Exploring Neurodesign to craft valuable, impactful products.
 - 📚 Avid **reader**, foodie, and martial arts enthusiast🥋.
-- 🖍️ Passionate about **design** ---- see my [work on Behance](https://www.behance.net/bakulybakulain).
+- 🖍️ Obsessed with **design-See** my [work on Behance](https://www.behance.net/bakulybakulain).
 <br/>
 
 ## :books: Blogs & Writings
