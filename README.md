@@ -15,7 +15,7 @@
 
 ## :books: Blogs & Writings
 
-> Coming soon...but great things take time.
+[Leveraging Internship to Propel FotoAlly Success](https://medium.com/@bakulybakulain/leveraging-internship-to-propel-fotoally-success-4787a9e1c0f6).
 
 <br/>
 <br/>
