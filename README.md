@@ -15,7 +15,9 @@
 
 ## :books: Blogs & Writings
 
-[Leveraging Internship to Propel FotoAlly Success](https://medium.com/@bakulybakulain/leveraging-internship-to-propel-fotoally-success-4787a9e1c0f6).
+- [Leveraging Internship to Propel FotoAlly Success](https://medium.com/@bakulybakulain/leveraging-internship-to-propel-fotoally-success-4787a9e1c0f6)
+- [Neurodesign: How Psychology Shapes Better Digital Experiences](https://medium.com/@bakulybakulain/neurodesign-how-psychology-shapes-better-digital-experiences-055a504a7583)  
+
 
 <br/>
 <br/>
@@ -32,10 +34,10 @@
 ### 🛠️ Tools I Use
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Connect with Me 🤝🏽
 
