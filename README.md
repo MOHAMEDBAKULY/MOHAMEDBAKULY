@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohamed Bakuly.
 
 **Tech-Psychology Student**
-<p>I love sharing web development tips and diving deeper into ReactJS & NextJS.Building FotoAlly, a platform connecting creatives to clients and organizations.</p>
+<p>Sharing web development tips and diving deeper into ReactJS & NextJS.Building FotoAlly, a platform connecting creatives to clients and organizations.</p>
 
 ### 💡 About Me!
 
@@ -44,6 +44,7 @@
 <a href="https://twitter.com/mohamedbakuly">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Connect with on Twitter"/>
 </a>
+
 
 <br/>
 <br/>
