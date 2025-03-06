@@ -16,7 +16,8 @@
 ## :books: Blogs & Writings
 
 - [Leveraging Internship to Propel FotoAlly Success](https://medium.com/@bakulybakulain/leveraging-internship-to-propel-fotoally-success-4787a9e1c0f6)
-- [Neurodesign: How Psychology Shapes Better Digital Experiences](https://medium.com/@bakulybakulain/neurodesign-how-psychology-shapes-better-digital-experiences-055a504a7583)  
+- [Neurodesign: How Psychology Shapes Better Digital Experiences](https://medium.com/@bakulybakulain/neurodesign-how-psychology-shapes-better-digital-experiences-055a504a7583)
+- [The Core Psychological Principles Behind Neurodesign](https://medium.com/@bakulybakulain/the-core-psychological-principles-behind-neurodesign-2ae2bc4797ef)
 
 
 <br/>
