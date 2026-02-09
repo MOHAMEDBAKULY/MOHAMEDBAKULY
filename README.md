@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohamed Bakuly.
 
-**Tech-Psychology Student**
+**Graphic Designer and Sports & Neurobiology Psychologist**
 <p>Sharing web development tips and diving deeper into ReactJS & NextJS.Building FotoAlly, a platform connecting creatives to clients and organizations.</p>
 
 ### 💡 About Me!
