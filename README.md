@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohamed Bakuly.
 
-**Graphic Designer and Sports & Neurobiology Psychologist**
-<p>Sharing web development tips and diving deeper into ReactJS & NextJS.Building FotoAlly, a platform connecting creatives to clients and organizations.</p>
+**Brand Designer | Illustrator & Product Design**
+<p>Sport Psychologist. Building FotoAlly, a platform connecting creatives to clients and organizations.</p>
 
 ### 💡 About Me!
 
